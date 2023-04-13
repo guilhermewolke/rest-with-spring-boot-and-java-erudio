@@ -1,0 +1,15 @@
+rest-with-spring-boot-and-java-erudio
+*.pem
+*.ppk
+
+*.jar
+*.war
+*.ear
+
+target/
+
+**/.project
+**/.classpath
+**/.settings
+/bin/
+**/.tern-project
